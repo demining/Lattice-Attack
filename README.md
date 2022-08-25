@@ -1,4 +1,6 @@
-		
+# One weak transaction in ECDSA on the Bitcoin blockchain and with the help of Lattice Attack we received a Private Key to BTC coins
+
+
 <blockquote class="wp-block-quote"><p><strong>What do we know about the lattice attack?</strong></p></blockquote>
 
 
@@ -261,3 +263,11 @@ HEX:  31AFD65CAD430D276E3360B1C762808D1D051154724B6FC15ED978FA9D06B1C1 </code></
 
 <p><a href="https://cryptodeeptech.ru/lattice-attack"><strong>https://cryptodeeptech.ru/lattice-attack — Source</strong></a></p>
 	</div><!-- .entry-content -->
+
+---
+
+
+|  | Donation Address |
+| --- | --- |
+| ♥ __BTC__ | 1Lw2kh9WzCActXSGHxyypGLkqQZfxDpw8v |
+| ♥ __ETH__ | 0xaBd66CF90898517573f19184b3297d651f7b90bf |
